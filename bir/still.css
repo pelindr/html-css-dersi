@@ -1,0 +1,31 @@
+
+.kodadi2023 {
+	font-size: 25px;
+	font-family: Lucida Calligraphy;
+	color: blue;
+	text-align: center;
+}
+/*alttaki örnek etikete etki eder*/
+h1{
+	font-size: 25px;
+	font-family: Lucida Calligraphy;
+	color: blue;
+}
+.resim {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+}
+
+
+}
+/* Bu arkaplan resmi koyar
+html,body{
+	background:url(çikolatalı.jpg) no repeat center center center fixed;
+	background-size: cover;
+} 
+*/
+html, body {
+	background-color: #745982 !important;
+}
