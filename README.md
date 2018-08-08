@@ -5,3 +5,5 @@ git add .
 git commit -m "git ogreniyorum"
 <br>
 git push origin master
+
+github üzerinden düzenleme
